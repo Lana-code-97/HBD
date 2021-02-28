@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <h1>Happy birthday to you</h1>
 <p>다혜의 25번째 생일을 축하합니다!</p>
-<img src="IMG_0041.JPG" width=30%>
+<img src="https://github.com/Lana-code-97/HBD/blob/main/IMG_0041.JPG?raw=true" width=30%>
 <p>다혜와 2021년도 함께하게 되어서 너무 행복해~ 우리 언제까지나 함께하자!!</p>
 
